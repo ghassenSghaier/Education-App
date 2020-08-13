@@ -1,0 +1,8 @@
+C:\Users\lenovo\source\repos\EducationWeb\EducationWeb.DOMAIN\bin\Debug\netcoreapp3.1\EducationWeb.DOMAIN.deps.json
+C:\Users\lenovo\source\repos\EducationWeb\EducationWeb.DOMAIN\bin\Debug\netcoreapp3.1\EducationWeb.DOMAIN.dll
+C:\Users\lenovo\source\repos\EducationWeb\EducationWeb.DOMAIN\bin\Debug\netcoreapp3.1\EducationWeb.DOMAIN.pdb
+C:\Users\lenovo\source\repos\EducationWeb\EducationWeb.DOMAIN\obj\Debug\netcoreapp3.1\EducationWeb.DOMAIN.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\EducationWeb\EducationWeb.DOMAIN\obj\Debug\netcoreapp3.1\EducationWeb.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\EducationWeb\EducationWeb.DOMAIN\obj\Debug\netcoreapp3.1\EducationWeb.DOMAIN.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\EducationWeb\EducationWeb.DOMAIN\obj\Debug\netcoreapp3.1\EducationWeb.DOMAIN.dll
+C:\Users\lenovo\source\repos\EducationWeb\EducationWeb.DOMAIN\obj\Debug\netcoreapp3.1\EducationWeb.DOMAIN.pdb

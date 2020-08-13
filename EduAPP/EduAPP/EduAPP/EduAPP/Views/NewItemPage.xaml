@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="EduAPP.Views.NewItemPage"
+             Title="New Item">
+    
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Cancel" Clicked="Cancel_Clicked" />
+        <ToolbarItem Text="Save" Clicked="Save_Clicked" />
+    </ContentPage.ToolbarItems>
+    
+    <ContentPage.Content>
+        <StackLayout Spacing="20" Padding="15">
+			<Label Text="Ref" FontSize="Medium" />
+            <Entry Text="{Binding Formation.ForId}" d:Text="Titre Formation" FontSize="Small" />
+            <Label Text="Titre" FontSize="Medium" />
+            <Entry Text="{Binding Formation.Title}" d:Text="Titre Formation" FontSize="Small" />
+            <Label Text="Formateur" FontSize="Medium" />
+            <Entry Text="{Binding Formation.Formateur}" d:Text="Formateur Formation" FontSize="Small" />
+            <Label Text="Description" FontSize="Medium" />
+            <Editor Text="{Binding Formation.Des}" d:Text="Item description" FontSize="Small" Margin="0" />
+			<Label Text="Date" FontSize="Medium" />
+            <DatePicker Date="{Binding Formation.Date}" d:Date="02/02/2020" Format="D" Margin="30, 0, 0, 30"/>
+        </StackLayout>
+    </ContentPage.Content>
+    
+</ContentPage>
